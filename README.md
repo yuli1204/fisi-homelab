@@ -1,7 +1,6 @@
 # FISI Homelab – Uptime Kuma (Docker)
 
-Dies ist ein kleines Lernprojekt für meine Bewerbung als  
-**Fachinformatikerin – Systemintegration**.
+
 
 ## Projektbeschreibung
 In diesem Projekt habe ich Docker Desktop unter Windows installiert  
